@@ -10,9 +10,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kamrulislambullet&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
+<img src="https://komarev.com/ghpvc/?username=kamrulhasanbullet&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/kamrulislambullet?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d4ff" />
+<img src="https://img.shields.io/github/followers/kamrulhasanbullet?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d4ff" />
 
 </div>
 
@@ -24,9 +24,9 @@
 
 ```javascript
 const kamrul = {
-  name: "Kamrul Islam",
+  name: "Kamrul Hasan",
   role: "Full-Stack Web Developer",
-  stack: ["MERN", "React", "Node.js", "MongoDB"],
+  stack: ["MERN", "React", "Node.js", Next.js, "MongoDB"],
   location: "Bangladesh 🇧🇩",
   available: true, // Open to Work ✅
   passion: "Building beautiful & scalable web apps",
@@ -81,9 +81,9 @@ const kamrul = {
 
 ## 📊 GitHub Analytics
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=kamrulislambullet&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=kamrulhasanbullet&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF" height="180"/>
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulislambullet&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulhasanbullet&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -120,7 +120,7 @@ const kamrul = {
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/kamrulislambullet">
+<a href="https://linkedin.com/in/kamrulhasanbullet">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
