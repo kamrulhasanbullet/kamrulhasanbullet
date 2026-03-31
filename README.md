@@ -94,7 +94,7 @@ const kamrul = {
 
 | 🚀 Project | 🛠 Tech | 🔗 Link |
 |---|---|---|
-| **Project Name 1** | React, Node.js, MongoDB | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
+| **ClubNest** | React, Node.js, Express.js, MongoDB, Firebase | [Live Demo](https://clubnest.netlify.app/) |
 | **Project Name 2** | Next.js, Tailwind, Firebase | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
 | **Project Name 3** | MERN Stack, JWT | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
 
